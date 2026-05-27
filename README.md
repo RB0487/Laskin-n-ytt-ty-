@@ -9,7 +9,7 @@ Lataa tämän Scripti nimeltään "#Laskin", (En ole varma että tarvitsetko lad
 
 ##Käyttö
 
-Laskien laskimiseen..
+Laskujen laskimiseen..
 
 ##Tekijä
 
